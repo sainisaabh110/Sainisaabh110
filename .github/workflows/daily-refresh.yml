@@ -1,0 +1,27 @@
+name: Daily README Refresh
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # once a day, midnight UTC
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Touch README to bust CDN/image caches
+        run: |
+          echo "<!-- last-refreshed: $(date -u +'%Y-%m-%dT%H:%M:%SZ') -->" > .last-refresh
+          git add .last-refresh
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --staged --quiet || git commit -m "chore: daily README refresh [skip ci]"
+          git push
