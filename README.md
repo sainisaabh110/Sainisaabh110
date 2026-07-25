@@ -16,7 +16,7 @@
 
 <!-- ============ ANIMATED AVATAR FRAME ============ -->
 <a href="https://github.com/GH_USERNAME">
-  <img src="https://github.com/GH_USERNAME.png" width="150" style="border-radius:50%;border:3px solid #00FF66;box-shadow:0 0 25px #00FF66;" alt="Tarun Saini avatar"/>
+  <img src="https://github.com/sainisaabh110.png" width="150" style="border-radius:50%;border:3px solid #00FF66;box-shadow:0 0 25px #00FF66;" alt="Tarun Saini avatar"/>
 </a>
 
 <h1>
@@ -126,7 +126,7 @@ AI chat & assistant bot with multi-model routing.
 `Status:` ![](https://img.shields.io/badge/live-00FF66?style=flat-square)
 `Lang:` ![](https://img.shields.io/badge/Python-00E5FF?style=flat-square)
 <br/>
-[`⭐ Star`](https://github.com/GH_USERNAME/jimmy-ai) · [`🔗 Repo`](https://github.com/GH_USERNAME/jimmy-ai)
+[`Link`](https://t.me/Social_hackerz_jimmyrobot)
 
 </td>
 <td width="50%" valign="top">
