@@ -58,40 +58,53 @@ Welcome back, Founder.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF66&height=2&width=100%25" width="100%"/>
 
 <!-- ============ ABOUT SECTION ============ -->
-<h2 align="center">👤 ABOUT_ME.exe</h2>
+<h2 align="center">$ whoami</h2>
+
+```bash
+root@social-hackerz:~# whoami
+tarun-saini :: Founder, Social_H@ckerz
+
+root@social-hackerz:~# cat roles.txt
+Python Developer / Telegram Bot Dev / AI Engineer
+
+root@social-hackerz:~# cat location.txt
+India (UTC+5:30)
+
+root@social-hackerz:~# cat stack.txt
+Python, JavaScript, Bash
+
+root@social-hackerz:~# cat focus.txt
+AI bots & automation systems, shipped at scale
+
+root@social-hackerz:~# cat mission.txt
+Automate everything worth repeating.
+
+root@social-hackerz:~# cat vision.txt
+Build India's largest Telegram bot ecosystem.
+
+root@social-hackerz:~# echo $STATUS
+ONLINE :: SHIPPING :: OPEN_TO_COLLAB
+```
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-name: Tarun Saini
-role: Founder @ Social_h@ckerz
-location: India 🇮🇳
-languages: [Python, JavaScript, Bash]
-current_focus: AI Bots & Automation Systems
-mission: "Automate everything worth repeating."
-vision: "Build India's largest Telegram bot ecosystem."
-fun_fact: "I debug faster than I sleep."
-learning: [FastAPI, LLM Agents, React]
-open_source: true
-```
+**`// what_i_do`**
+- Build production-grade Telegram bots
+- Ship AI-powered tools and chat assistants
+- Turn websites / HTML into installable APKs
+- Build OSINT and automation utilities
+- Deploy and host bots for the community
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ What I do**
-- 🤖 Build production-grade Telegram bots
-- 🧠 Ship AI-powered tools and chat assistants
-- 📦 Turn websites/HTML into installable APKs
-- 🕵️ Build OSINT & automation utilities
-- ☁️ Deploy and host bots for the community
-
-**🎯 Currently**
-- 🔭 Working on: `JIMMY AI`
-- 🌱 Learning: LLM agent orchestration
-- 👯 Open to collabs: Bot & AI projects
-- 💬 Ask me about: Python, Telegram Bot API, Automation
+**`// currently`**
+- Working on: `JIMMY AI`
+- Learning: LLM agent orchestration
+- Open to: bot & AI collaborations
+- Ask me about: Python, Telegram Bot API, automation
 
 </td>
 </tr>
@@ -384,7 +397,7 @@ FUTURE ─┴── 🚀 Build India's biggest Telegram bot ecosystem
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF66,100:7CFF00&height=2&width=100%25" width="100%"/>
 
 <!-- ============ ACHIEVEMENTS ============ -->
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
+<h2 align="center">$ cat achievements.log</h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/COMMITS-2K%2B-00FF66?style=for-the-badge&labelColor=000000" />
@@ -396,7 +409,7 @@ FUTURE ─┴── 🚀 Build India's biggest Telegram bot ecosystem
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF66&height=2&width=100%25" width="100%"/>
 
 <!-- ============ LIVE STATUS ============ -->
-<h2 align="center">📡 LIVE STATUS</h2>
+<h2 align="center">$ status --live</h2>
 
 <div align="center">
 
@@ -413,7 +426,7 @@ FUTURE ─┴── 🚀 Build India's biggest Telegram bot ecosystem
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7CFF00,100:00FF66&height=2&width=100%25" width="100%"/>
 
 <!-- ============ CONNECT ============ -->
-<h2 align="center">📡 CONNECT WITH ME</h2>
+<h2 align="center">$ connect --init</h2>
 
 <div align="center">
 
@@ -431,14 +444,15 @@ FUTURE ─┴── 🚀 Build India's biggest Telegram bot ecosystem
 <!-- ============ FOOTER ============ -->
 <div align="center">
 
-```
-   _____             _       _   _     @      _
-  / ____|           (_)     | | | |__ __ _  | |
- | (___   ___   ___  _  __ _| |_| '_ / _  |_| | __ ______
-  \___  \/ _ \ / __|| |/ _  | | | | | | (_| | |/ / |______|
-  ____) | (_) | (__ | | (_| | | | | | | |__/|   <
- |_____/ \___/ \___|/ |\__,_|_| |_| |_|  ___/|_|\_\
-                  |__/          H @ C K E R Z
+```text
+┌──────────────────────────────┐
+│  root@social-hackerz:~#       │
+│  [OK] modules....loaded       │
+│  [OK] bots.......online       │
+│  [OK] session....active       │
+│  [OK] access.....granted      │
+└──────────────────────────────┘
+       SOCIAL_H@CKERZ
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Tarun+Saini;%C2%A9+2026+Social_h%40ckerz.+All+rights+reserved." />
